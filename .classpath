@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="E:/ProgDocs/Bradley/GitHub/GameDev1/lib/jinput.jar"/>
+	<classpathentry kind="lib" path="E:/ProgDocs/Bradley/GitHub/GameDev1/lib/jogg-0.0.7.jar"/>
+	<classpathentry kind="lib" path="E:/ProgDocs/Bradley/GitHub/GameDev1/lib/jorbis-0.0.15.jar"/>
+	<classpathentry kind="lib" path="E:/ProgDocs/Bradley/GitHub/GameDev1/lib/lwjgl_applet.jar"/>
+	<classpathentry kind="lib" path="E:/ProgDocs/Bradley/GitHub/GameDev1/lib/lwjgl_util.jar"/>
+	<classpathentry kind="lib" path="E:/ProgDocs/Bradley/GitHub/GameDev1/lib/lwjgl_util_applet.jar"/>
+	<classpathentry kind="lib" path="E:/ProgDocs/Bradley/GitHub/GameDev1/lib/lwjgl-debug.jar"/>
+	<classpathentry kind="lib" path="E:/ProgDocs/Bradley/GitHub/GameDev1/lib/slick.jar"/>
+	<classpathentry kind="lib" path="E:/ProgDocs/Bradley/GitHub/GameDev1/lib/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="E:/ProgDocs/Bradley/GitHub/GameDev1/lib/Windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
