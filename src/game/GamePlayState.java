@@ -17,21 +17,21 @@ public class GamePlayState extends BasicGameState {
     }
 
     @Override
-    public void init(GameContainer arg0, StateBasedGame arg1)
+    public void init(GameContainer gc, StateBasedGame sbg)
             throws SlickException {
         // TODO Set default variable values, and load assets here.
         
     }
 
     @Override
-    public void render(GameContainer arg0, StateBasedGame arg1, Graphics arg2)
+    public void render(GameContainer gc, StateBasedGame sbg, Graphics g)
             throws SlickException {
         // TODO Draw sprites to the screen here!
         
     }
 
     @Override
-    public void update(GameContainer arg0, StateBasedGame arg1, int arg2)
+    public void update(GameContainer gc, StateBasedGame sbg, int arg)
             throws SlickException {
         // TODO Update all game objects, and get user input here.
         
